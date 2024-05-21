@@ -46,8 +46,7 @@ Star the repo up there then click Here To  [`FORK`](https://github.com/cheekydav
   ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/cheekydavy/PING-MD)***
 
 
-  ***<p align="center"><a href="https://bmw-code-app-c1168f4953cd.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20IBRAHIM%20TECH%20APP-Yellow?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>***
+  ***<p align="center"><a href="https://bmw-code-app-c1168f4953cd.herokuapp.com/">***
 
 
 
