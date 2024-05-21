@@ -45,11 +45,6 @@ Star the repo up there then click Here To  [`FORK`](https://github.com/cheekydav
 
   ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/cheekydavy/PING-MD)***
 
-
-  ***<p align="center"><a href="https://bmw-code-app-c1168f4953cd.herokuapp.com/">***
-
-
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
