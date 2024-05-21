@@ -27,24 +27,7 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Support 🧧 🧧 🧧 🧧
-## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
 
-
-HOW TO REACH THE OWNER? 
- 
-   
-   <a href="https://wa.me/message/74F2PC4JA4F3P1">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <a
-
-    ## Ask any thing
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## STEPS TO DEPLOY YOUR BOT
@@ -61,11 +44,6 @@ Star the repo up there then click Here To  [`FORK`](https://github.com/cheekydav
  <h1 align="center">
 
   ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/cheekydavy/PING-MD)***
-
-
-
-
-
 
 
   ***<p align="center"><a href="https://bmw-code-app-c1168f4953cd.herokuapp.com/">
