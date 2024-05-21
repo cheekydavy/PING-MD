@@ -1,5 +1,5 @@
 {
-  "name": "BMW-XMD",
+  "name": "PING-MD",
   "version": "2.0.0",
   "description": "",
   "main": "ibrahim.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "BMW-Md",
+    "PING-Md",
     "whatsapp",
     "whatsapp-bot",
     "ibrahimadams"
   ],
-  "author": "ibrahimaitech",
+  "author": "Mbuvi",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
