@@ -13,11 +13,10 @@ RUN git clone https://github.com/cheekydavy/ping-md.git /root/ping-md
 WORKDIR /root/ping-md/
 
 COPY package.json .
-RUN npm install pm2 -g
 RUN npm install --legacy-peer-deps
 
 COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "Ibrahim.js"]
+CMD ["pm2-runtime", "Ibrahim.js"]
