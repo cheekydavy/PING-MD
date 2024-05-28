@@ -19,4 +19,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["pm2-runtime", "Ibrahim.js"]
+CMD ["pm2-runtime", "set.js"]
