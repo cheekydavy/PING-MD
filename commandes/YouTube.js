@@ -103,7 +103,7 @@ france({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `*BMW-MD VIDEO'S*\n\n*Title :* ${Element.title}
+        caption: `*MBUVI-MD VIDEO'S*\n\n*Title :* ${Element.title}
 *Duration :* ${Element.timestamp}
 *Video Url:* ${Element.url}
 
