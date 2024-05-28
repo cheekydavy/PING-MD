@@ -9,14 +9,14 @@ const audiovn = "./start.mp3";
         mimetype: 'audio/mp4',
         ptt: true,
         waveform:  [100, 0, 100, 0, 100, 0, 100],
-        fileName: "Bmw-md",
+        fileName: "Mbuvi-md",
 
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
           title: "Hi human, I am on run",
-          body: "BMW BOT",
-          thumbnailUrl: "https://telegra.ph/file/a238340352ed8841782a7.jpg",
+          body: "Mbuvi BOT",
+          thumbnailUrl: "https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg",
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: true
