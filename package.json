@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node ibrahim.js",
-    "bmwmd": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
+    "ping-md": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
@@ -15,7 +15,7 @@
     "PING-Md",
     "whatsapp",
     "whatsapp-bot",
-    "ibrahimadams"
+    "Mbuvi"
   ],
   "author": "Mbuvi",
   "license": "ISC",
