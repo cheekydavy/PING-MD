@@ -8,10 +8,9 @@ RUN apt-get update && \
   apt-get upgrade -y && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
-  
-RUN git clone https://github.com/ibrahimaitech/BMW-MD.git  /root/BmwMD
-WORKDIR /root/bmwmd/
 
+RUN git clone https://github.com/cheekydavy/ping-md.git /root/ping-md
+WORKDIR /root/ping-md/
 
 COPY package.json .
 RUN npm install pm2 -g
@@ -21,5 +20,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "ibrahim.js"]
-
+CMD ["node", "Ibrahim.js"]
