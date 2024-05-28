@@ -29,14 +29,14 @@ france({
           
        let infoMess = {
           image: {url : videos[0]. thumbnail},
-         caption : `*BMW-MD SONG'S*\n\n*Title:* ${videos[0].title}
+         caption : `*MBUVI-MD SONG'S*\n\n*Title:* ${videos[0].title}
          
 *Duration:* ${videos[0].timestamp}
 *Song Url:* ${videos[0].url}
 
 
 
-*_Made by Ibrahim Adams._*`
+*_Made by Mbuvi Tech._*`
        }
 
       
@@ -109,7 +109,7 @@ france({
 
 
 
-*Made by Ibrahim Adams*\n\n`
+*Made by Mbuvi Tech*\n\n`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
@@ -130,7 +130,7 @@ france({
 
       fileStream.on('finish', () => {
         // Envoi du fichier vidéo en utilisant l'URL du fichier local
-        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*BMW-MD*", gifPlayback: false }, { quoted: ms });
+        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*MBUVI-MD*", gifPlayback: false }, { quoted: ms });
       });
 
       fileStream.on('error', (error) => {
