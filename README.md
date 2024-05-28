@@ -43,7 +43,7 @@ Star the repo up there then click Here To  [`FORK`](https://github.com/cheekydav
 
  <h1 align="center">
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`] (https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/cheekydavy/Ping-MD&template=https://github.com/cheekydavy/Ping-MD.git)***
+  ***[`TAP HERE TO DEPLOY ON HEROKU`] ((https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/cheekydavy/Ping-MD&template=https://github.com/cheekydavy/Ping-MD.git))***
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
