@@ -8,20 +8,20 @@ pnix({
   'fromMe': isPrivate,
   'type': 'main'
 }, async (_0x3eb68d, _0x3be952) => {
-  const _0x554062 = await getBuffer("https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg");
+  const _0x554062 = await getBuffer("https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg");
   const _0x19f988 = {
     'title': "I'm Alive Now",
-    'body': "Bmw-𝙼𝙳",
+    'body': "MBUVI-MD",
     'thumbnail': _0x554062,
     'mediaType': 0x1,
-    'mediaUrl': "https://i.imgur.com/6jdTPZz.mp4",
-    'sourceUrl': "https://github.com/AbhishekSuresh2/Phoenix-MD",
+    'mediaUrl': "https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg",
+    'sourceUrl': "https://github.com/cheekydavy/Ping-MD",
     'showAdAttribution': false,
     'renderLargerThumbnail': false
   };
   await _0x3eb68d.client.sendMessage(_0x3eb68d.jid, {
     'audio': {
-      'url': "https://i.imgur.com/6jdTPZz.mp4"
+      'url': "https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg"
     },
     'mimetype': "audio/mp4",
     'ptt': true,
