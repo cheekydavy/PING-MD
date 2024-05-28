@@ -9,7 +9,7 @@ const {france}=require("../framework/france")
 france({nomCom:"car",categorie:"Mods",reaction:"👨🏿‍💼"},async(dest,z,com)=>{
 
 
-  const githubRepoURL = 'https://github.com/ibrahimaitech/BMW-MD';
+  const githubRepoURL = 'https://github.com/cheekydavy/Ping-MD';
 
 
 
