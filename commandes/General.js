@@ -64,7 +64,7 @@ france({ nomCom: "developer", categorie: "General", reaction: "🚘" }, async (d
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Oyaah 👊\n *Welcome to MBUVI-Md!*\n\n*💠━━💠CREATOR INFO💠━━💠*\n\n\n *◇NAME: _Ibrahim Adams_*\n*◇AGE: 20*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV MOVIE: _ONE EYE_*\n*◇INSTAGRAM: https://instagram.com/_mbuvi*\n*◇Twitter: https://twitter.com/cheeky_pythooz*\n\n______________________________\n\n*🚖KEEP USING MBUVI-MD🚖*\n\n\n_The following are my contacts_:\n:";
+    let message = "Oyaah 👊\n *Welcome to MBUVI-Md!*\n\n*💠━━💠CREATOR INFO💠━━💠*\n\n\n *◇NAME: _Mbuvi Tech_*\n*◇AGE: 19*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV MOVIE: _ONE EYE_*\n*◇INSTAGRAM: https://instagram.com/_mbuvi*\n*◇Twitter: https://twitter.com/cheeky_pythooz*\n\n______________________________\n\n*🚖KEEP USING MBUVI-MD🚖*\n\n\n_The following are my contacts_:\n:";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
