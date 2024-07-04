@@ -19,7 +19,7 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-scanner-9380dc7ea838.herokuapp.com/pair)***
+[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-scanner-code-ba5356648122.herokuapp.com/pair)***
 
 
   
